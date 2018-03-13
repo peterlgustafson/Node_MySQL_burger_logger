@@ -1,0 +1,30 @@
+{
+  "name": "node_mysql_burger_logger",
+  "version": "1.0.0",
+  "description": "node mysql burger logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlgustafson/Node_MySQL_burger_logger.git"
+  },
+  "keywords": [
+    "mysql",
+    "node"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterlgustafson/Node_MySQL_burger_logger/issues"
+  },
+  "homepage": "https://github.com/peterlgustafson/Node_MySQL_burger_logger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
+}
